@@ -165,4 +165,4 @@ ggplot(new_data, aes(x = as.numeric(levels(interval)[interval]), y = steps)) +
 
 ![plot of chunk unnamed-chunk-4](figure/unnamed-chunk-4.png) 
 
-###Activities on weekends are more spread out. While on weekdays activities are concnetrated around the 500-1000 interval
+Activities on weekends are more spread out. While on weekdays activities are concentrated around the 500-1000 interval
