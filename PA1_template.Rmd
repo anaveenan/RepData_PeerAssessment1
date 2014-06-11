@@ -124,4 +124,4 @@ facet_wrap(~week_day,nrow=2,ncol=1)+
 labs(x="Interval", y="Number of steps") +
   theme_bw()
 ```
-Activities on weekends are more spread out. While on weekdays activities are concnetrated around the 500-1000 interval
+Activities on weekends are more spread out. While on weekdays activities are concentrated around the 500-1000 interval
